@@ -1,5 +1,7 @@
 # textlint-formatter [![Build Status](https://travis-ci.org/textlint/textlint-formatter.svg)](https://travis-ci.org/textlint/textlint-formatter)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/textlint/textlint-formatter.svg)](https://greenkeeper.io/)
+
 [textlint](https://github.com/textlint/textlint "textlint/textlint") output formatter.
 
 ## Installation
